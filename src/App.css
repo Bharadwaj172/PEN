@@ -1,0 +1,61 @@
+#background {
+  background-image: url(./assets/background1.jpeg);
+  width: 100%;
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#photo1 {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  top: 90px;
+  left: 200px;
+}
+
+.div {
+  margin: 10px;
+}
+
+.name {
+  color: white;
+  position: relative;
+  top: 90px;
+  left: 230px;
+}
+
+.DOB {
+  color: white;
+  position: relative;
+  top: 120px;
+  left: 200px;
+}
+
+.DOD {
+  color: white;
+  position: relative;
+  top: 120px;
+  left: 200px;
+}
+
+#lifespan {
+  color: white;
+  position: relative;
+  top: 130px;
+  left: 930px;
+}
+
+#button {
+  position: relative;
+  top: 230px;
+  left: 1300px;
+  height: 50px;
+  width: 100px;
+}
